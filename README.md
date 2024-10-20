@@ -100,6 +100,8 @@ Neste Mini Projeto, não será preciso implementar nenhum design - já fizemos i
 
 - React básico/intermediário
 
-# Hook form: https://www.react-hook-form.com
+# Hook form docs: https://www.react-hook-form.com
 
-# use-mask-input https://www.npmjs.com/package/use-mask-input
+# use-mask-input docs: https://www.npmjs.com/package/use-mask-input
+
+# vídeo: https://www.youtube.com/watch?v=H2_yqSFCy4g
